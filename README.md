@@ -12,4 +12,4 @@ In this video, we're going to build a Conversational Voice Controlled React News
 Setup:
 - run ```npm i && npm start``` to start development server
 
-Repasse: ### [Live Site](https://www.youtube.com/watch?v=rqw3OftE5sA) 
+ ### [Repasse:](https://www.youtube.com/watch?v=rqw3OftE5sA) 
